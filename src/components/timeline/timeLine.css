@@ -1,0 +1,9 @@
+.css-7rwfde-MuiTimelineItem-root::before {
+  -webkit-flex: 0 !important;
+  -ms-flex: 1 !important;
+  flex: 0 !important;
+}
+
+.MuiTimelineContent-root {
+  font-family: "Inknut Antiqua", sans-serif !important;
+}
