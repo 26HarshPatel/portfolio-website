@@ -15,8 +15,8 @@ export default function Navbar() {
       pathName: "/",
     },
     {
-      label: "About Me",
-      pathName: "/about-me",
+      label: "Contact Me",
+      pathName: "/contact-me",
     },
   ];
   return (

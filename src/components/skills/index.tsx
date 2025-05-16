@@ -68,7 +68,7 @@ const allSkills: {
     color: "secondary",
   },
   {
-    title: "Tools & Technologies",
+    title: "Tools And Technologies",
     skills: toolsAndTechnologiesSkills,
     color: "success",
   },

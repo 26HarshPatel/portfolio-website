@@ -14,6 +14,9 @@ module.exports = {
           "serif",
         ],
       },
+      boxShadow: {
+        innerPrimary: "inset 0 2px 4px rgba(0, 0, 0, 0.2)",
+      },
     },
   },
   plugins: [],
